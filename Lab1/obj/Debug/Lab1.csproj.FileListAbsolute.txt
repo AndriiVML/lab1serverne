@@ -1,0 +1,77 @@
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\bin\Debug\Lab1.exe.config
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\bin\Debug\Lab1.exe
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\bin\Debug\Lab1.pdb
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\bin\Debug\EntityFramework.SqlServer.dll
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\bin\Debug\EntityFramework.dll
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\bin\Debug\System.Net.Http.Formatting.dll
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\bin\Debug\System.Web.Http.dll
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\bin\Debug\System.Web.Http.WebHost.dll
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\bin\Debug\Newtonsoft.Json.dll
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\obj\Debug\Lab1.ListOfSages.resources
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\obj\Debug\Lab1.Main.resources
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\obj\Debug\Lab1.ListOfBooks.resources
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\obj\Debug\Lab1.exe
+C:\inesteruk\lp\9sem\ServerWeb\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\bin\Debug\Lab1.exe
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\bin\Debug\EntityFramework.dll
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\bin\Debug\System.Web.Http.dll
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\obj\Debug\Lab1.ListOfSages.resources
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\obj\Debug\Lab1.Main.resources
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\obj\Debug\Lab1.ListOfBooks.resources
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\obj\Debug\Lab1.exe
+C:\Users\Yurii_Dudar\Desktop\NULP\Serverne\Lab1\obj\Debug\Lab1.pdb
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\bin\Debug\EntityFramework.dll
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\bin\Debug\System.Web.Http.dll
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\bin\Debug\System.Web.Http.WebHost.dll
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\bin\Debug\Newtonsoft.Json.dll
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.ListOfSages.resources
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.Main.resources
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.ListOfBooks.resources
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Study\Master\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\bin\Debug\EntityFramework.SqlServer.dll
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\bin\Debug\EntityFramework.dll
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\bin\Debug\System.Net.Http.Formatting.dll
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\bin\Debug\System.Web.Http.dll
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\bin\Debug\System.Web.Http.WebHost.dll
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\bin\Debug\Newtonsoft.Json.dll
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.ListOfSages.resources
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.Main.resources
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.ListOfBooks.resources
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\НАВЧАННЯ\9 СЕМЕСТР\СЕРВЕРНЕ WEB-ПРОГРАМУВАННЯ\Серверне Web програмування\Lab1\Lab1\obj\Debug\Lab1.pdb
